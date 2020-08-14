@@ -1,0 +1,9 @@
+.idea/
+.idea
+rocksdb_simple_example/
+cmake-build-debug/
+build/
+.DS_Store
+.project
+.settings/
+lib/
